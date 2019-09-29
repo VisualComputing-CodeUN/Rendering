@@ -30,7 +30,8 @@ H:
 1. Introduction: the problem
 2. Rasterization approach
 3. Ray-tracing approach
-4. Final thoughts
+4. Constructive solid geometry
+5. Final thoughts
 
 H:
 
@@ -452,7 +453,7 @@ V:
 
 H:
 
-## BSP
+## Constructive solid geometry
 
 V: 
 
