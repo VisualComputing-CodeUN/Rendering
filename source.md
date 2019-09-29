@@ -452,6 +452,31 @@ V:
 
 H:
 
+## BSP
+
+V: 
+
+## Graphic Explanation
+<img height='400' src='fig/primitives_blender.png'/>
+
+V: 
+
+## Graphic Explanation
+<section>
+    <img height='400' src='fig/evangelion_blender.png'/>
+    <img height='400' src='fig/suzie_blender.png'/>
+</section>
+
+V: 
+
+## Graphic Explanation
+
+<video height="400" >
+<source controls data-autoplay src="vid/blender.mp4" type="video/mp4" />
+</video>
+
+H:
+
 ## Final thoughts
 
 > Problem: Implement Alberti's Veil on a computer -> virtual (pinhole) camera model
