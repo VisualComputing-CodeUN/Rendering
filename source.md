@@ -455,6 +455,19 @@ H:
 
 ## Constructive solid geometry
 
+We can break down any object into more simple elemental objects
+
+V: 
+
+## 
+
+## Binary space partition in CSG
+
+<section>
+<img height='400' src='fig/csg_tree.png'/>
+<p style='font-size: 18px;'>Set operations like interception, union and difference along convex sets called 'Primitives'</p>
+</section>
+
 V: 
 
 ## Graphic Explanation
