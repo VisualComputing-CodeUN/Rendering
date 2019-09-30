@@ -459,34 +459,43 @@ We can break down any object into more simple elemental objects
 
 V: 
 
-## 
+## Solid Model
+
+<section>
+    <img height='400' src='fig/solid_model.png'/>
+    <p style='font-size: 20px;'>Romulus, first commercial solid modeling software, 1978</p>
+</section>
+
+V: 
 
 ## Binary space partition in CSG
 
 <section>
-<img height='400' src='fig/csg_tree.png'/>
-<p style='font-size: 18px;'>Set operations like interception, union and difference along convex sets called 'Primitives'</p>
+    <img height='400' src='fig/csg_tree.png'/>
+    <p style='font-size: 20px;'>Set operations like interception, union and difference along convex sets called "Primitives</p>
 </section>
 
 V: 
 
 ## Graphic Explanation
-<img height='400' src='fig/primitives_blender.png'/>
+<figure>
+    <img height='400' src='fig/primitives_blender.png'/>
+</figure>
 
 V: 
 
 ## Graphic Explanation
-<section>
+<figure>
     <img height='400' src='fig/evangelion_blender.png'/>
     <img height='400' src='fig/suzie_blender.png'/>
-</section>
+</figure>
 
 V: 
 
 ## Graphic Explanation
 
 <video height="400" >
-<source controls data-autoplay src="vid/blender.mp4" type="video/mp4" />
+    <source controls data-autoplay src="vid/blender.mp4" type="video/mp4" />
 </video>
 
 H:
